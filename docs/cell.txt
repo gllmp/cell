@@ -1,0 +1,30 @@
+cell
+****
+
+/////////////
+audio visual poetic language
+
+cell is a stack-based two-dimensional esoteric programming language
+made to create short audio visual poems.
+
+cell programs are written by placing letters on a 10x10 grid with
+each cell of the grid containing one letter/sound only. The grid is
+not displayed in the final output, it only defines display rules and
+operation space.
+/////////////
+
+/////////////
+cell book
+
+- poems + manual book + software
+
+- follow instruction manual to create poems
+
+- listen to audio generated from code by plugging headphone into cell book
+
+- download code with each book purchase to download compiler
+
+- web based interpreter to create and browse poems
+/////////////
+
+
